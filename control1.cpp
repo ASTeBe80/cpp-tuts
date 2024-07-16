@@ -7,10 +7,10 @@ int main(){
     int age;
     cin>>age;
     if(age<18){
-        cout<<"Adult"<<endl;
+        cout<<"Minor"<<endl;
     }
     else{
-        cout<<"Minor"<<endl;
+        cout<<"Adult"<<endl;
     }
     return 0;
 }
