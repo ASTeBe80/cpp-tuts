@@ -15,6 +15,7 @@ int main(){
     int marks;
     cin>>marks;
     
+    //this solution is not optimised, for solving such problems, switch case should be used.
     if(marks<25){
         cout<<"F";
     }
